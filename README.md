@@ -1,0 +1,1 @@
+# ufop_reconhecimento_padroes
